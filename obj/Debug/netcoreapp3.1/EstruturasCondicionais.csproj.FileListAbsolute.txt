@@ -1,0 +1,13 @@
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.exe
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.deps.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.runtimeconfig.dev.json
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\bin\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.csprojAssemblyReference.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.dll
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.pdb
+C:\Users\renat\OneDrive\Documentos\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\EstruturasCondicionais\obj\Debug\netcoreapp3.1\EstruturasCondicionais.genruntimeconfig.cache
